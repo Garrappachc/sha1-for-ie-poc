@@ -20,8 +20,14 @@
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
+    "@types/text-encoding": "0.0.34",
+    "asmcrypto.js": "^0.22.0",
     "core-js": "^2.5.4",
+    "fast-text-encoding": "^1.0.0",
     "rxjs": "^6.0.0",
+    "text-encoding": "^0.7.0",
+    "webcrypto-liner": "^0.1.36",
+    "webcrypto-shim": "^0.1.4",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
